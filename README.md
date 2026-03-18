@@ -13,3 +13,8 @@ From this challenge, I learned how to process and classify data using loops and
 conditional statements in Python. I understood how personalization logic can influence
 program output and make solutions unique. The task also improved my ability to handle
 invalid data and generate structured reports based on logical conditions.
+Day 6:
+Learned how to use loops and conditional statements to process real-world data.
+Understood how dictionaries can organize categorized information efficiently.
+Practiced list comprehension to filter and work with specific data.
+Gained insight into applying logical rules to detect patterns and make decisions.
