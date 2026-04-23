@@ -18,3 +18,10 @@ Learned how to use loops and conditional statements to process real-world data.
 Understood how dictionaries can organize categorized information efficiently.
 Practiced list comprehension to filter and work with specific data.
 Gained insight into applying logical rules to detect patterns and make decisions.
+Day 8:
+I learned how to manage and analyze student data using Python with tools like NumPy and Pandas.
+I understood how to organize data using lists, dictionaries, and DataFrames.
+I learned to create custom logic like a performance index for better evaluation.
+I also learned how to handle errors and set up the environment properly while working on real projects.
+
+
