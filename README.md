@@ -26,6 +26,7 @@ I also learned how to handle errors and set up the environment properly while wo
 Day 9:
 I learned the difference between shallow copy and deep copy in Python. Shallow copy only duplicates the outer structure, so nested data is still shared, causing unintended changes in the original data. Deep copy creates a completely independent structure, preventing such issues. This concept is very important in real-world applications like databases and inventory systems where data integrity matters.
 Day 10:
+I learned how shallow and deep copies behave differently in Python, especially with nested data structures. Shallow copy shares inner references, which can unintentionally modify original data, causing data drift. Deep copy avoids this by creating independent copies. I also learned how to use NumPy and Pandas for statistical analysis and how small mutations can impact overall data consistency.
 
 
 
