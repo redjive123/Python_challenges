@@ -23,5 +23,9 @@ I learned how to manage and analyze student data using Python with tools like Nu
 I understood how to organize data using lists, dictionaries, and DataFrames.
 I learned to create custom logic like a performance index for better evaluation.
 I also learned how to handle errors and set up the environment properly while working on real projects.
+Day 9:
+I learned the difference between shallow copy and deep copy in Python. Shallow copy only duplicates the outer structure, so nested data is still shared, causing unintended changes in the original data. Deep copy creates a completely independent structure, preventing such issues. This concept is very important in real-world applications like databases and inventory systems where data integrity matters.
+Day 10:
+
 
 
